@@ -1,1 +1,1 @@
-# solve_PL
+Ce programme sert à résoudre n'importe quel type de programme linéaire, il faut juste que vous saisisse la nature (Max /min), la fonction objective, les contraintes avec ses types et le programme va vous donner le résultat optimal pour votre problème
